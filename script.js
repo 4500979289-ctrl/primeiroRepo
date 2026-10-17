@@ -3,4 +3,4 @@ const helloWorld = (nome="Visitante") => {
     return frase;
 }
 console.log(helloWorld("Thalia"))
-console.log(helloWorld("Vitor"))
+
