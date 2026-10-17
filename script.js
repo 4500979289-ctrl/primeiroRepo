@@ -4,4 +4,3 @@ const helloWorld = (nome="Visitante") => {
 }
 console.log(helloWorld("Thalia"))
 console.log(helloWorld("Vitor"))
-console.log(helloWorld("Eliza"))
