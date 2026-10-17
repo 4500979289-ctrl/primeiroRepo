@@ -5,4 +5,5 @@ const helloWorld = (nome="Visitante") => {
 console.log(helloWorld("Dione"))
 console.log(helloWorld("Geovana"))
 console.log(helloWorld("Fernanda"))
-console.log(helloWorld())
+console.log(helloWorld("Gervásio"))
+console.log(helloWorld("Kayky"))
